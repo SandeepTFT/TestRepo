@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource1">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=rxvvwjk19l.database.windows.net;Initial Catalog=FantasyWrite_Prototype</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>4c9758a3-cafd-4b8f-bb17-7df599326a31</DataSourceID>
+</RptDataSource>

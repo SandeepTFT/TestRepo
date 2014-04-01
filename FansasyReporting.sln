@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "FansasyReporting", "FansasyReporting\FansasyReporting.rptproj", "{A817AA5A-12A9-4FB9-B8BC-34F92657F03F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A817AA5A-12A9-4FB9-B8BC-34F92657F03F}.Debug|Default.ActiveCfg = Debug
+		{A817AA5A-12A9-4FB9-B8BC-34F92657F03F}.Debug|Default.Build.0 = Debug
+		{A817AA5A-12A9-4FB9-B8BC-34F92657F03F}.Debug|Default.Deploy.0 = Debug
+		{A817AA5A-12A9-4FB9-B8BC-34F92657F03F}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{A817AA5A-12A9-4FB9-B8BC-34F92657F03F}.DebugLocal|Default.Build.0 = DebugLocal
+		{A817AA5A-12A9-4FB9-B8BC-34F92657F03F}.Release|Default.ActiveCfg = Release
+		{A817AA5A-12A9-4FB9-B8BC-34F92657F03F}.Release|Default.Build.0 = Release
+		{A817AA5A-12A9-4FB9-B8BC-34F92657F03F}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
