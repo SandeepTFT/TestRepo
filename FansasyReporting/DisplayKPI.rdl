@@ -145,7 +145,7 @@
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>Metric Dt</Value>
+                                  <Value>Metric Date</Value>
                                   <Style />
                                 </TextRun>
                               </TextRuns>
@@ -1543,7 +1543,7 @@
             <DataSetName>DataSet1</DataSetName>
             <Top>0.405in</Top>
             <Height>0.75in</Height>
-            <Width>14.14583in</Width>
+            <Width>14.14584in</Width>
             <Style>
               <Border>
                 <Style>None</Style>
@@ -1587,7 +1587,7 @@
         <Height>1.21875in</Height>
         <Style />
       </Body>
-      <Width>14.14583in</Width>
+      <Width>14.14584in</Width>
       <Page>
         <LeftMargin>1in</LeftMargin>
         <RightMargin>1in</RightMargin>
