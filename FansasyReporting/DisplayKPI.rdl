@@ -145,7 +145,7 @@
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>Metric Dt</Value>
+                                  <Value>Metric Date</Value>
                                   <Style />
                                 </TextRun>
                               </TextRuns>
