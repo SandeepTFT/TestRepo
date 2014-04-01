@@ -105,7 +105,7 @@
                   <Width>0.94792in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1.22917in</Width>
+                  <Width>1.08334in</Width>
                 </TablixColumn>
                 <TablixColumn>
                   <Width>1in</Width>
@@ -1543,7 +1543,7 @@
             <DataSetName>DataSet1</DataSetName>
             <Top>0.405in</Top>
             <Height>0.75in</Height>
-            <Width>14.14584in</Width>
+            <Width>14.00001in</Width>
             <Style>
               <Border>
                 <Style>None</Style>
