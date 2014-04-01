@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "FansasyReporting", "FansasyReporting\FansasyReporting.rptproj", "{A817AA5A-12A9-4FB9-B8BC-34F92657F03F}"
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "FantasyReporting", "FansasyReporting\FantasyReporting.rptproj", "{A817AA5A-12A9-4FB9-B8BC-34F92657F03F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
